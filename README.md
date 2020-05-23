@@ -29,7 +29,7 @@ done
 
 Modifiy manage-downloads.service entries:
 * ExecStart=/usr/bin/python /your/path/to/automation/manage-downloads/manage_downloads.py (Line 8) and
-* User=<your-user-name-get-by-typing-whoami-in-console> (Line 13)
+* User=your-user-name-get-by-typing-whoami-in-console (Line 13)
 
 NB:
 * Get username by entering whoami into console.
