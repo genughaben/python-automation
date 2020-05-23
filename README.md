@@ -2,11 +2,17 @@
 
 ## Manage Downloads Folder
 
-### Prepare Downloads folder:
+### Prepare Downloads folder
 
 Create the following folders in your Downloads and create folders:
 
-['pdf' 'else' 'data' 'image' 'video' 'document' 'programming']
+* pdf
+* else
+* data
+* image
+* video
+* document
+* programming
 
 using:
 
